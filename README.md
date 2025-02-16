@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project aims to analyze data from the **UEFA Champions League** Finals using **Python**. The project includes data cleaning, missing value analysis, data visualization, and exploring historical trends.
+This project aims to analyze **UEFA Champions League Finals** data by scraping Wikipedia data using **Python**. The project includes data cleaning, missing value analysis, data visualization, and extracting insights by exploring historical trends. 
 
 ## Contents
 
