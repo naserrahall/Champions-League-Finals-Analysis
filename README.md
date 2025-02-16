@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project aims to analyze data from the **UEFA Champions League** Finals using **Python**. The project includes data cleaning, missing value analysis, and exploring historical trends such as replays and penalty shootouts.
+This project aims to analyze data from the **UEFA Champions League** Finals using **Python**. The project includes data cleaning, missing value analysis, and exploring historical trends.
 
 ## Contents
 
