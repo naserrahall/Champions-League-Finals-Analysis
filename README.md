@@ -24,7 +24,7 @@ This project aims to analyze data from the **UEFA Champions League** Finals usin
 - Season.
 - Teams.
 - Final result.
-- Host city.
+- Stadium city.
 - Empty values ​​were handled and incomplete rows were removed.
 
 
